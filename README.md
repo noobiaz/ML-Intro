@@ -1,2 +1,2 @@
-# ML-Intro
+# ML Intro
 Introduction to Machine Learning
